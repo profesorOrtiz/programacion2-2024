@@ -10,7 +10,7 @@ El siguiente repositorio contiene los archivos de ejemplo de la materia Programa
 
 ## Instalación del proyecto 💻
 
-Para instalar el proyecto en de forma local se deberán seguir los siguientes pasos
+Para instalar el proyecto de forma local se deberán seguir los siguientes pasos
 
 ### Requisitos previos
 
