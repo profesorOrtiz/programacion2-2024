@@ -8,7 +8,7 @@ class TestSuma(unittest.TestCase):
         self.assertEqual(suma([1, 1, 1]), 3, "Deberia ser 3")
 
     def test_suma_incorrecto(self):
-        self.assertNotEqual(suma([1, 1, 'e']), 3, "Deberia ser 4")
+        self.assertNotEqual(suma([1, 1, 2]), 3, "Deberia ser 4")
 
 if __name__ == '__main__':
     unittest.main()
